@@ -1,0 +1,3 @@
+--->College Compass is a GUI project in python
+--->This is a project which helps students locate places inside the college.
+--->It works on redirecting the user to the google maps after selecting a particular location provided in the menu.
